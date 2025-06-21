@@ -6,7 +6,7 @@ A responsive and visually engaging product showcase built with HTML, Tailwind CS
 
 ## 🌐 Live Demo
 
-🔗 **[View Project](https://your-live-project-link.com)**  
+🔗 **[View Project](https://dikshakh011.github.io/krish-tech-solutions/))**  
 *(Replace this with your actual deployed link)*
 
 ---
