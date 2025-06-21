@@ -36,7 +36,14 @@ Crafted with care for minimal and focused product presentations.
 
 ---
 
-## 🧾 License
+## ⚠️ License
+
+© 2025 KrisTech Solutions. All rights reserved.
+
+This project and its source code are **strictly proprietary**.  
+You may **not** copy, redistribute, modify, or use any part of this codebase or its design without **explicit written permission** from KrisTech Solutions.
+
+Violation of these terms may result in legal action.
 
 
 
