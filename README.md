@@ -1,1 +1,42 @@
-Krishna Kumar Portfolio Website
+# Dynamic Product Showcase | KrisTech Solutions
+
+A responsive and visually engaging product showcase built with HTML, Tailwind CSS, and vanilla JavaScript. Products are displayed as interactive cards, and clicking the "Demo" button opens a modal video player with a smooth, blurred overlay.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[View Project](https://your-live-project-link.com)**  
+*(Replace this with your actual deployed link)*
+
+---
+
+## 🚀 Features
+
+- ⚡ Fully responsive layout optimized for mobile and desktop
+- 🎬 Modal video player with backdrop blur on demo click
+- 💎 Clean and modern UI styled with Tailwind CSS
+- 🧩 Pure HTML + Vanilla JS (no build tools or frameworks)
+- ✨ Smooth animations and auto-centered modal experience
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- Tailwind CSS (via CDN)  
+- Vanilla JavaScript  
+
+---
+
+## 🙌 Author
+
+**KrisTech Solutions**  
+Crafted with care for minimal and focused product presentations.
+
+---
+
+## 🧾 License
+
+
+
